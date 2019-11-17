@@ -12,5 +12,30 @@
     "chai": "^4.2.0",
     "mocha": "^6.1.4",
     "wct-mocha": "^1.0.1"
-  }
+  },
+  "version": "1.0.0",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "polymer test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/technicise-software-and-technologies/technicise-star-rating.git"
+  },
+  "keywords": [
+    "technicise",
+    "polymer",
+    "webcomponents",
+    "rating",
+    "input",
+    "custom-elements"
+  ],
+  "author": "Joysankar Sengupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/technicise-software-and-technologies/technicise-star-rating/issues"
+  },
+  "homepage": "https://github.com/technicise-software-and-technologies/technicise-star-rating#readme"
 }
