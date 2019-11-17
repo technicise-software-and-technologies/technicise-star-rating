@@ -14,6 +14,7 @@ class TechniciseStarRating extends PolymerElement {
       <style>
         :host {
           display: inline-block;
+          vertical-align: text-top;
         }
         fieldset{
           margin: 0px;
