@@ -25,11 +25,24 @@
       <h3>Basic technicise-star-rating demo</h3>
       <demo-snippet>
         <template>
+          <h3>Full star rating</h3>
+          <hr>
           <span>Give rating: <technicise-star-rating id="rating" value="1" full></technicise-star-rating></span>
           <button onclick="_getValue()">get rating</button>
+          <p id="fullRating"></p>
+          <h3>Half star rating</h3>
+          <hr>
+          <span>Give rating: <technicise-star-rating id="halfStar" value="1"></technicise-star-rating></span>
+          <button onclick="_getHalfValue()">get rating</button>
+          <p id="halfRating"></p>
           <script>
             function _getValue(){
               console.log(document.getElementById('rating').value);
+              document.getElementById('fullRating').innerHTML = document.getElementById('rating').value;
+            }
+            function _getHalfValue(){
+              console.log(document.getElementById('halfStar').value);
+              document.getElementById('halfRating').innerHTML = document.getElementById('halfStar').value;
             }
           </script>
         </template>
