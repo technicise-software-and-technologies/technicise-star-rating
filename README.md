@@ -2,6 +2,12 @@
 
 &lt;technicise-star-rating&gt; provides a tiny and flexible star rating component that uses SVG to render rating, so no images required.
 
+## Demo
+
+[Live Demo ↗](https://technicse-star-rating-demo.stackblitz.io/)
+|
+[Demo Source ↗](https://stackblitz.com/edit/technicse-star-rating-demo)
+
 ## Install the Polymer-CLI
 
 First, make sure you have the [Polymer CLI](https://www.npmjs.com/package/polymer-cli) and npm (packaged with [Node.js](https://nodejs.org)) installed. Run `npm install` to install your element's dependencies, then run `polymer serve` to serve your element locally.
