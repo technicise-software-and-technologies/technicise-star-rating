@@ -4,9 +4,9 @@
 
 ## Demo
 
-[Live Demo ↗](https://technicse-star-rating-demo.stackblitz.io/)
+[Live Demo ↗](https://technicise-star-rating-demo.stackblitz.io)
 |
-[Demo Source ↗](https://stackblitz.com/edit/technicse-star-rating-demo)
+[Demo Source ↗](https://stackblitz.com/edit/technicise-star-rating-demo)
 
 ## Install the Polymer-CLI
 
